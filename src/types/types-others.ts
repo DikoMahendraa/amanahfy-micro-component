@@ -1,0 +1,1 @@
+export const allowedImageExtensions = ['.png','.jpg','.jpeg','.svg','.gif']
